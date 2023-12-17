@@ -1,1 +1,1 @@
-This is an End to End Application of Machine Learning deployed using Git. This will cover all aspects of deploying a ML model on an application.
+This is an End to End Application of Machine Learning deployed using Git. This will cover all aspects of deploying a ML model on an application. Lets make this quick.
